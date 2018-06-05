@@ -1,6 +1,0 @@
-{
-  "extension_folder":"monero",
-  "name": "monero",
-  "git": "https://github.com/monero-project/monero.git",
-  "branch":"master"
-}
